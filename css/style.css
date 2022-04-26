@@ -518,6 +518,14 @@ f
     margin-bottom: 30px;
 }
 
+.about .skills h5 {
+    font-weight: 400px;
+}
+
+.about .skills h2 {
+    font-weight: 600px;
+}
+
 .about .skill-name {
     margin-top: 15px;
 }
@@ -533,21 +541,12 @@ f
     float: right;
 }
 
-.about .progress {
-    height: 10px;
-    border-radius: 10px;
-    background: #dddddd;
-}
-
-.about .progress .progress-bar {
-    width: 0px;
-    background: #812ec5;
-    border-radius: 10px;
-    transition: 2s;
-}
-
 .about .about-text a.btn {
     margin-top: 15px;
+}
+
+.about .btn {
+    margin-bottom: 35px;
 }
 
 @media (max-width: 991.98px) {
