@@ -29,7 +29,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #812ec5;
+    color: #0c80ec;
     outline: none;
     text-decoration: none;
 }
@@ -49,20 +49,20 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #812ec5;
+    background: #0c80ec;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #812ec5;
+    box-shadow: inset 0 0 0 50px #0c80ec;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
 }
 
 .btn:hover {
-    color: #812ec5;
+    color: #0c80ec;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #812ec5;
-    border-color: #812ec5;
+    box-shadow: inset 0 0 0 0 #0c80ec;
+    border-color: #0c80ec;
 }
 
 #loader {
@@ -96,7 +96,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #812ec5;
+    border-top: 5px solid #0c80ec;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -202,7 +202,7 @@ a:focus {
         color: #ffffff;
     }
     .navbar.nav-sticky .navbar-brand {
-        color: #812ec5;
+        color: #0c80ec;
     }
     .navbar-light .navbar-nav .nav-link,
     .navbar-light .navbar-nav .nav-link:focus {
@@ -221,7 +221,7 @@ a:focus {
     }
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #812ec5;
+        color: #0c80ec;
     }
 }
 
@@ -231,7 +231,7 @@ a:focus {
         background: #ffffff !important;
     }
     .navbar .navbar-brand {
-        color: #812ec5;
+        color: #0c80ec;
     }
     .navbar .navbar-nav {
         margin-top: 15px;
@@ -259,7 +259,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(129, 46, 197, .95), rgba(25, 6, 73, .95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(12, 128, 236, .95), rgba(12, 38, 135, .90)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -325,7 +325,7 @@ a:focus {
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: #812ec5;
+    color: #0c80ec;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -442,7 +442,7 @@ a:focus {
     top: 11px;
     right: 0;
     left: -30px;
-    background: #812ec5;
+    background: #0c80ec;
     z-index: -1;
 }
 
@@ -453,7 +453,7 @@ a:focus {
     height: 3px;
     top: 11px;
     left: 3px;
-    background: #812ec5;
+    background: #0c80ec;
     z-index: 1;
 }
 
@@ -578,7 +578,7 @@ f
     content: '';
     position: absolute;
     width: 2px;
-    background: #812ec5;
+    background: #0c80ec;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -610,7 +610,7 @@ f
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid #812ec5;
+    border: 2px solid #0c80ec;
     border-radius: 16px;
     z-index: 1;
 }
@@ -642,7 +642,7 @@ f
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: #812ec5;
+    color: #0c80ec;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -742,7 +742,7 @@ f
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
-    background-color: hsla(273, 62%, 95%);
+    background-color: hsla(209, 90%, 98%);
     margin-bottom: 20px;
 }
 
@@ -766,14 +766,14 @@ f
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #812ec5;
+    border: 2px solid #0c80ec;
     background: #ffffff;
 }
 
 .service .service-icon i {
     position: relative;
     font-size: 60px;
-    color: #812ec5;
+    color: #0c80ec;
     transition: .3s;
 }
 
@@ -802,7 +802,7 @@ f
 
 .service .service-item:hover .service-text h3,
 .service .service-item:hover .service-text p {
-    color: #190649;
+    color: #0c2687;
 }
 
 @media (max-width: 575.98px) {
@@ -846,10 +846,10 @@ f
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background: #812ec5;
+    background: #0c80ec;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #812ec5;
+    box-shadow: inset 0 0 0 50px #0c80ec;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
@@ -857,10 +857,10 @@ f
 
 .portfolio #portfolio-filter li:hover,
 .portfolio #portfolio-filter li.filter-active {
-    color: #812ec5;
+    color: #0c80ec;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #812ec5;
-    border-color: #812ec5;
+    box-shadow: inset 0 0 0 0 #0c80ec;
+    border-color: #0c80ec;
 }
 
 .portfolio .portfolio-item {
@@ -922,10 +922,10 @@ f
 }
 
 .portfolio .portfolio-item:hover a.btn {
-    color: #812ec5;
+    color: #0c80ec;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #812ec5;
-    border-color: #812ec5;
+    box-shadow: inset 0 0 0 0 #0c80ec;
+    border-color: #0c80ec;
 }
 
 
@@ -938,7 +938,7 @@ f
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #190649;
+    background: #0c2687;
 }
 
 .contact h2 {
@@ -955,7 +955,7 @@ f
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #812ec5;
+    background: #0c80ec;
 }
 
 .contact .contact-form input {
@@ -989,7 +989,7 @@ f
 
 .contact .contact-form .btn {
     margin-top: 35px;
-    color: #812ec5;
+    color: #0c80ec;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
